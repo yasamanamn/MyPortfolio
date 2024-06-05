@@ -18,7 +18,7 @@ const projects = [
   {
     title: "Ostad Yar Application  ui/ux-flutter",
     cardImage: "assets/images/project-page/26.PNG",
-    Previewlink: "assets/images/project-page/27.png",
+    Previewlink: "assets/images/project-page/26.png",
   },
   {
     title: "Changing parts of Jopopel site (vue.js)",
