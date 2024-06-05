@@ -7,17 +7,17 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
     title: "Habit-tracker project (vue.js)",
-    cardImage: "assets/images/project-page/3.PNG",
+    cardImage: "assets/images/project-page/3.png",
     Previewlink: "assets/images/project-page/6.png",
   },
   {
     title: "Ostad Yar website ui/ux-flutter",
-    cardImage: "assets/images/project-page/24.PNG",
+    cardImage: "assets/images/project-page/24.png",
     Previewlink: "assets/images/project-page/24.png",
   },
   {
     title: "Ostad Yar Application  ui/ux-flutter",
-    cardImage: "assets/images/project-page/26.PNG",
+    cardImage: "assets/images/project-page/26.png",
     Previewlink: "assets/images/project-page/26.png",
   },
   {
